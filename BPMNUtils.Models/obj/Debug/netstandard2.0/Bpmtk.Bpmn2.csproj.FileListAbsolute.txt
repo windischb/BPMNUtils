@@ -1,0 +1,8 @@
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\bin\Debug\netstandard2.0\Bpmtk.Bpmn2.deps.json
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\bin\Debug\netstandard2.0\Bpmtk.Bpmn2.dll
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\bin\Debug\netstandard2.0\Bpmtk.Bpmn2.pdb
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\obj\Debug\netstandard2.0\Bpmtk.Bpmn2.csprojAssemblyReference.cache
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\obj\Debug\netstandard2.0\Bpmtk.Bpmn2.AssemblyInfoInputs.cache
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\obj\Debug\netstandard2.0\Bpmtk.Bpmn2.AssemblyInfo.cs
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\obj\Debug\netstandard2.0\Bpmtk.Bpmn2.dll
+C:\Repos\bpmtk\src\Bpmtk.Bpmn2\obj\Debug\netstandard2.0\Bpmtk.Bpmn2.pdb

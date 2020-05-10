@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mpz9qAq2pI5knyF+hd9zzTd87xneI78XhodwOSH9aaJjRxZFpJNHHoI9KYJu96usg/NI5N5H0vRcdORKxXEX1g==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\BPMNUtils\\BPMNUtils.Models\\BPMNUtils.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\winbe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\winbe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

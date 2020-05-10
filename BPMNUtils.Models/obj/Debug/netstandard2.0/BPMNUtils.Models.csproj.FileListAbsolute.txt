@@ -1,0 +1,8 @@
+C:\Repos\BPMNUtils\BPMNUtils.Models\bin\Debug\netstandard2.0\BPMNUtils.Models.deps.json
+C:\Repos\BPMNUtils\BPMNUtils.Models\bin\Debug\netstandard2.0\BPMNUtils.Models.dll
+C:\Repos\BPMNUtils\BPMNUtils.Models\bin\Debug\netstandard2.0\BPMNUtils.Models.pdb
+C:\Repos\BPMNUtils\BPMNUtils.Models\obj\Debug\netstandard2.0\BPMNUtils.Models.AssemblyInfoInputs.cache
+C:\Repos\BPMNUtils\BPMNUtils.Models\obj\Debug\netstandard2.0\BPMNUtils.Models.AssemblyInfo.cs
+C:\Repos\BPMNUtils\BPMNUtils.Models\obj\Debug\netstandard2.0\BPMNUtils.Models.dll
+C:\Repos\BPMNUtils\BPMNUtils.Models\obj\Debug\netstandard2.0\BPMNUtils.Models.pdb
+C:\Repos\BPMNUtils\BPMNUtils.Models\obj\Debug\netstandard2.0\BPMNUtils.Models.csprojAssemblyReference.cache
